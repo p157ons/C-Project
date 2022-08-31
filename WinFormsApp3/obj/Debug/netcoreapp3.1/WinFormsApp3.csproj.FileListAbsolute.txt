@@ -1,0 +1,68 @@
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csprojAssemblyReference.cache
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form2.resources
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\Interop.TxDataConvert.dll
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\Interop.TxDataConvert.dll
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.ResolveComReference.cache
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form3.resources
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CopyComplete
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\L&I Legal\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form4.resources
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.ResolveComReference.cache
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form2.resources
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form3.resources
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form4.resources
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CopyComplete
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\tomas\Desktop\Studia\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csprojAssemblyReference.cache
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.ResolveComReference.cache
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form2.resources
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form3.resources
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form4.resources
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CopyComplete
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Tomek PC\Desktop\4 Semestr\Programowanie_C#_Projekt\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
